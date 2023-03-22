@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evans Yator
 - 👀 A Bsc Industrial Chemist 
-- 🌱 I’m currently a student at ALX learning Software Engineering 
+- 🌱 I’m currently learning Software Development at PLP Academy 
 - 💞️ Let's Link Up
 - 📫 Reach me at
          kevansyator@gmail.com
